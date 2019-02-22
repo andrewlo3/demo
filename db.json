@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"event_id":1,"address":"14000 Quail Springs Pkwy, Oklahoma City, OK, 73103","start_date":"2019-07-04T00:00:00","end_date":"2019-07-04T00:00:00","event_name":"Test Event","description":"This is a test event","sessions":null,"announcments":null,"teams":null},{"event_id":2,"address":"2501 E Memorial Rd, Edmond, OK 73013","start_date":"2019-05-01T00:00:00","end_date":"2019-05-02T00:00:00","event_name":"Codeathon","description":"Put your coding skills to the test and may the best team win","sessions":null,"announcments":null,"teams":null},{"event_id":10,"address":"1032 Bigboy Ave, Littleville, TX","start_date":"2020-12-10T00:00:00","end_date":"2020-12-15T00:00:00","event_name":"The Big One","description":"This is it boys.","sessions":null,"announcments":null,"teams":null},{"event_id":11,"address":"1032 Bigboy Ave, Littleville, TX","start_date":"2021-12-10T00:00:00","end_date":"2021-12-15T00:00:00","event_name":"The Big One anniversary","description":"Lets remember the boys.","sessions":null,"announcments":null,"teams":null},{"event_id":12,"address":"14000 Quail Springs Pkwy, Oklahoma City, OK, 73103","start_date":"2019-07-08T00:00:00","end_date":"2019-07-09T00:00:00","event_name":"Test Event Again","description":"This is a test event, but again","sessions":null,"announcments":null,"teams":null},{"event_id":13,"address":"2501 E Memorial Rd, Oklahoma City, OK, 73103","start_date":"2019-02-18T00:00:00","end_date":"2019-02-18T00:00:00","event_name":"Review Sprint 1 with OC Students","description":"We will be going over the first sprint of OC students designing our Event system.","sessions":null,"announcments":null,"teams":null},{"event_id":14,"address":"1242 Little ln, TX, 76262","start_date":"2020-03-08T00:00:00","end_date":"2020-03-10T00:00:00","event_name":"Still just testing","description":"Don't know if this post is going to work.","sessions":null,"announcments":null,"teams":null},{"event_id":15,"address":"353 test","start_date":"1998-01-13T00:00:00","end_date":"1998-02-13T00:00:00","event_name":"testName","description":"testDescription","sessions":null,"announcments":null,"teams":null},{"event_id":19,"address":"Harold Science Hall Oklahoma Christian University, Edmond, OK 73013","start_date":"2019-02-18T00:00:00","end_date":"2019-02-18T00:00:00","event_name":"Review Sprint 1","description":"Harbert will be going over all the stuff we did during this sprint.","sessions":null,"announcments":null,"teams":null}]
